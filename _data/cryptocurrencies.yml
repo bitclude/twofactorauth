@@ -50,6 +50,15 @@ websites:
     regions:
       - br
 
+  - name: Bitclude
+    url: https://bitclude.com
+    img: bitclude.png
+    tfa:
+      - sms
+      - email
+      - totp
+    doc: https://help.bitclude.com/how-to-enable-2fa-dual-authorization/
+
   - name: Bitfinex
     url: https://www.bitfinex.com
     img: bitfinex.png
